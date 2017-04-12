@@ -1,0 +1,56 @@
+##LISTA DE EXERCICIO
+
+1. Faça um programa para ler três números reais e determinar qual o maior e o menor deles.
+
+
+2. Faça um programa para ler a idade de uma pessoa e determinar se esta pessoa é ou não maior de idade (idade maior ou igual a 18 anos).
+O programa deve imprimir a seguinte frase: Esta pessoa tem ________ anos e [é / não é] maior de idade
+
+
+3. Faça um programa para ler um número inteiro e determinar se ele é par ou ímpar e exibir a mensagem "o numero __ é __."
+
+
+4. A empresa XYZ Ltda. concedeu uma gratificação de 20% do valor do salário a todos os funcionários com tempo de serviço na empresa igual ou superior a dez anos e de 10% aos demais.
+Faça um programa para solicitar o tempo do serviço e o salário do funcionário e calcular e exibir o valor da gratificação que ele irá receber.
+
+
+5. Dada uma temperatura em graus Celsius, ache a temperatura equivalente em graus Fahrenheit. Lembre-se que: ºC = 5/9(ºF – 32).
+
+
+6. Faça um programa para ler dois números inteiros e executar uma das operações listadas a seguir de acordo com a escolha do usuário. 
+Se for digitada uma opção inválida, o programa deve exibir uma mensagem de erro. As opções são:
+1. Adição
+2. Subtração
+3. Multiplicação
+4. Quociente da divisão
+5. Resto da divisão
+6. Potenciação
+7. Média aritmética
+
+
+7. O Futebol Clube do Recife deseja aumentar o salário de seus jogadores. O ajuste salarial deve obedecer à seguinte tabela:
+
+===================================================================
+Salário Atual 										Ação
+===================================================================
+até R$ 900,00 								aumento de 20%
+-------------------------------------------------------------------
+Acima de R$ 900,00 até R$ 1.300,00			aumento de 15%
+-------------------------------------------------------------------
+Acima de R$ 1.300,00 até R$ 1.800,00		aumento de 10%
+-------------------------------------------------------------------
+acima de 1.800,00 							aumento de 5%
+-------------------------------------------------------------------
+
+Faça um programa ler o salário atual de um jogador e calcular seu aumento e seu novo salário. O programa deverá exibir a seguinte frase:
+
+O jogador terá aumento de R$ __________ e passará a receber R$____________.
+
+
+
+## EXTRA
+
+
+1. Faça um programa para exibir os números ímpares entre 0 e 100.
+
+2. Faça um programa para exibir todos os números inteiros divisíveis por 4, maiores ou iguais a 1050 e menores ou iguais a 2400.
