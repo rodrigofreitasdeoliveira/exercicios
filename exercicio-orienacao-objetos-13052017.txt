@@ -1,0 +1,24 @@
+- Criar a classe abaixo
+	
+	* nome: Animal
+	
+	* atributos:
+		- tipo:String
+		- tamanho:Double (em centimetros)
+		- peso:Double (em gramas)
+		- idade:Integer (em meses)
+		- sexo:String
+		
+	* metodos:
+		- comer:void
+		- dormir:void
+		- andar:void
+		
+>> O programa deve solicitar ao usuario quantos animais ele deseja cadastrar. OBS: Não pode ser cadastrado 0 (zero) animais ou menos.
+
+>> A cada animal cadastrado deve ser exibida a seguinte mensagem:
+	- Animal: #TIPO#
+	  Tamanho: #TAMANHO# cm
+	  Peso: #PESO# kg
+	  Idade: #IDADE# meses
+	  Sexo: #SEXO#
